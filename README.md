@@ -55,19 +55,15 @@ This project implements an automated color-based sorting system using an ESP32 m
 | G > R and G > B and G > 15 | GREEN |
 | Otherwise | OTHER |
 
-# Project Images
-Circuit Diagram
+# Circuit Diagram
+<img width="822" height="625" alt="image" src="https://github.com/user-attachments/assets/ee4d62fa-fbc0-41ee-8980-87ceecdff8a1" />
 
-images/circuit-diagram.png
+# System Block Diagram
+<img width="666" height="710" alt="image" src="https://github.com/user-attachments/assets/afdd112b-714e-4233-a278-284be037247f" />
 
-Physical Prototype
-
-images/prototype.jpg
-
-System Block Diagram
-
-images/block-diagram.png
-
-Sorting Process
-
-images/demo.jpg
+# Author
+- Davin Kenaz Widiananda Tappo 235150301111026
+- Athayabhista Pratama Imron 235150307111021
+- Muhammad Dzaki Fadhlurrohman 235150300111026
+- Adhitya Noer Effendi 235150307111024)
+- Salma Davina Fitri Marsista 235150301111030
