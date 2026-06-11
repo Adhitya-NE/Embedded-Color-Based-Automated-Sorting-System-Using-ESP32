@@ -61,7 +61,7 @@ This project implements an automated color-based sorting system using an ESP32 m
 # System Block Diagram
 <img width="666" height="710" alt="image" src="https://github.com/user-attachments/assets/afdd112b-714e-4233-a278-284be037247f" />
 
-# Author
+# Authors
 - Davin Kenaz Widiananda Tappo 235150301111026
 - Athayabhista Pratama Imron 235150307111021
 - Muhammad Dzaki Fadhlurrohman 235150300111026
