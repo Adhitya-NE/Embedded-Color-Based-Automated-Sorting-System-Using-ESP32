@@ -65,5 +65,5 @@ This project implements an automated color-based sorting system using an ESP32 m
 - Davin Kenaz Widiananda Tappo 235150301111026
 - Athayabhista Pratama Imron 235150307111021
 - Muhammad Dzaki Fadhlurrohman 235150300111026
-- Adhitya Noer Effendi 235150307111024)
+- Adhitya Noer Effendi 235150307111024
 - Salma Davina Fitri Marsista 235150301111030
